@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(#327bf0,#f03294); 
+}
+img{
+    border-radius: 50%;
+}
+marquee{
+    color:aqua;
+    font-size:40px; 
+}
+p{
+ max-width: 450px;
+    font-size: 17px;
+    line-height: 1.3;
+    margin: 25px auto;
+}
